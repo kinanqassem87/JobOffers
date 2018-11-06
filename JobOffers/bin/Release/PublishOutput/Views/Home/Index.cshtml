@@ -1,0 +1,37 @@
+﻿
+@model IEnumerable<JobOffers.Models.Category>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron alert alert-info">
+    <h3>مرحبا بك عزيزي الزائر</h3>
+    <p>مجموعة من الوظائف المتنوعة و المختلفة يمكن نشر وظيفة او التقدم الى وظيفة</p>
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">المزيد من التفاصيل &raquo;</a></p>
+</div>
+
+
+@foreach (var item in Model)
+{
+<div class="panel panel-info">
+    <div class="panel-heading"><h1>@Html.DisplayFor(modelItem => item.CategoryName)</h1></div>
+    <h5>@Html.DisplayFor(modelItem => item.CategoryDescription)</h5>
+
+    <div class="row panel-body">
+        @foreach (var subitem in item.Jobs)
+        {
+
+        <div class="col-md-3 thumbnail">
+            <img src="~/uploads/@subitem.JobImage" style="width:48px;min-height:48px;margin-left:20px;margin-bottom:30px;" />
+            <h3>@Html.DisplayFor(modelItem => subitem.JobTitle)</h3>
+            <h5>@Html.Raw(HttpUtility.HtmlDecode(Html.DisplayFor(modelItem => subitem.JobContent).ToString()))</h5>
+            @Html.ActionLink("التفاصيل", "Details", new { JobId = subitem.Id },new {@class="btn btn-primary" })
+        </div>
+
+
+        }
+    </div>
+</div>
+}
+

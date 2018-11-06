@@ -1,0 +1,149 @@
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\ApplicationInsights.config
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\JobOffers.dll.config
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\JobOffers.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\JobOffers.pdb
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\EntityFramework.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AI.Web.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Owin.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\WebGrease.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\EntityFramework.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\bin\Microsoft.AI.Web.xml
+C:\Users\User\source\repos\JobOffers\JobOffers\obj\Debug\JobOffers.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\JobOffers\JobOffers\obj\Debug\JobOffers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JobOffers\JobOffers\obj\Debug\JobOffers.dll
+C:\Users\User\source\repos\JobOffers\JobOffers\obj\Debug\JobOffers.pdb
+D:\New folder\JobOffers\JobOffers\bin\ApplicationInsights.config
+D:\New folder\JobOffers\JobOffers\bin\JobOffers.dll.config
+D:\New folder\JobOffers\JobOffers\bin\JobOffers.dll
+D:\New folder\JobOffers\JobOffers\bin\JobOffers.pdb
+D:\New folder\JobOffers\JobOffers\bin\Antlr3.Runtime.dll
+D:\New folder\JobOffers\JobOffers\bin\EntityFramework.dll
+D:\New folder\JobOffers\JobOffers\bin\EntityFramework.SqlServer.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AI.Agent.Intercept.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AI.DependencyCollector.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AI.Web.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AI.WindowsServer.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.ApplicationInsights.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AspNet.Identity.Core.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Cookies.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Facebook.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Google.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.OAuth.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Twitter.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder\JobOffers\JobOffers\bin\Newtonsoft.Json.dll
+D:\New folder\JobOffers\JobOffers\bin\Owin.dll
+D:\New folder\JobOffers\JobOffers\bin\System.Web.Helpers.dll
+D:\New folder\JobOffers\JobOffers\bin\System.Web.Mvc.dll
+D:\New folder\JobOffers\JobOffers\bin\System.Web.Optimization.dll
+D:\New folder\JobOffers\JobOffers\bin\System.Web.Razor.dll
+D:\New folder\JobOffers\JobOffers\bin\System.Web.WebPages.Deployment.dll
+D:\New folder\JobOffers\JobOffers\bin\System.Web.WebPages.dll
+D:\New folder\JobOffers\JobOffers\bin\System.Web.WebPages.Razor.dll
+D:\New folder\JobOffers\JobOffers\bin\WebGrease.dll
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder\JobOffers\JobOffers\bin\System.Web.Helpers.xml
+D:\New folder\JobOffers\JobOffers\bin\System.Web.Mvc.xml
+D:\New folder\JobOffers\JobOffers\bin\System.Web.Optimization.xml
+D:\New folder\JobOffers\JobOffers\bin\System.Web.Razor.xml
+D:\New folder\JobOffers\JobOffers\bin\System.Web.WebPages.xml
+D:\New folder\JobOffers\JobOffers\bin\System.Web.WebPages.Deployment.xml
+D:\New folder\JobOffers\JobOffers\bin\System.Web.WebPages.Razor.xml
+D:\New folder\JobOffers\JobOffers\bin\Antlr3.Runtime.pdb
+D:\New folder\JobOffers\JobOffers\bin\Newtonsoft.Json.xml
+D:\New folder\JobOffers\JobOffers\bin\EntityFramework.xml
+D:\New folder\JobOffers\JobOffers\bin\EntityFramework.SqlServer.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AspNet.Identity.Core.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Facebook.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Cookies.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.OAuth.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Google.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.Twitter.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.ApplicationInsights.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AI.DependencyCollector.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AI.WindowsServer.xml
+D:\New folder\JobOffers\JobOffers\bin\Microsoft.AI.Web.xml
+D:\New folder\JobOffers\JobOffers\obj\Debug\JobOffers.csproj.CoreCompileInputs.cache
+D:\New folder\JobOffers\JobOffers\obj\Debug\JobOffers.dll
+D:\New folder\JobOffers\JobOffers\obj\Debug\JobOffers.pdb
+D:\New folder\JobOffers\JobOffers\obj\Debug\JobOffers.Migrations.InitialCreate.resources
+D:\New folder\JobOffers\JobOffers\obj\Debug\JobOffers.csproj.GenerateResource.Cache
+D:\New folder\JobOffers\JobOffers\obj\Debug\JobOffers.Migrations.AddColumnToUsers.resources
+D:\New folder\JobOffers\JobOffers\obj\Debug\JobOffers.Migrations.AddCategoryTable.resources
+D:\New folder\JobOffers\JobOffers\obj\Debug\JobOffers.Migrations.AddJobsTable.resources
+D:\New folder\JobOffers\JobOffers\obj\Debug\JobOffers.Migrations.ApplyJobs.resources
+D:\New folder\JobOffers\JobOffers\obj\Debug\JobOffers.csprojResolveAssemblyReference.cache
+D:\New folder\JobOffers\JobOffers\obj\Debug\JobOffers.Migrations.EditJobModel.resources
